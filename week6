@@ -1,0 +1,25 @@
+USER STORIES:
+        AGRICULTURE AND AQUACULTURE SYSTEMS:
+        the state government wants to maintain the database of all the farmers and their agricultural land details
+
+STATE GOVERNMENT:
+        government officials can modify the details and update the status.after cultivation government buy the crop and 
+        return the money to  the bank account
+
+BANKS:
+     BANKS WILL PROVIDED LOANS FOR THEIR CULTIVATION WITH ONE YEAR DURATION based on their land size and their cultivation type.
+ 
+FARMERS:
+     Based on the type of agriculture and aquaculture ,the farmers can get the feticide details from the agriculture department for their cultivation and aquaculture.
+     
+   ISSUES:
+        based on clearance of the loan any one can buy land from existing farmer.the new farmer details have to update in the portal.
+        Those who have not availed loan facility the amount will be transferred to their savings account and the deposited and can be withdrawn.
+        
+    MILESTONES:
+    1. CLEAR OF LOANS AND UPDATE DETAILS IN PORTAL.
+    2.REGISTER AND VIEW DETAILS.
+    3.TO MAINTAIN THE CLEAN STATUS OF THE FARMER
+    4.GOVERNMENT MAY ALSO TRANSFER MONEY FOR ANY SUBSIDY /INSURABNCE AMOUNT TO AADHAR LINKED BANK ACCOUNT.
+    
+ 
